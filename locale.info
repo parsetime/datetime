@@ -1,0 +1,31 @@
+
+Per quanto riguarda LOCALE:
+
+Da terminale:>> locale -a
+
+Si ottiene:
+
+
+C
+C.UTF-8
+en_AG
+en_AU.utf8
+en_BW.utf8
+en_CA.utf8
+en_DK.utf8
+en_GB.utf8
+en_HK.utf8
+en_IE.utf8
+en_IN
+en_NG
+en_NZ.utf8
+en_PH.utf8
+en_SG.utf8
+en_US.utf8
+en_ZA.utf8
+en_ZM
+en_ZW.utf8
+it_CH.utf8
+it_IT.utf8
+POSIX
+
